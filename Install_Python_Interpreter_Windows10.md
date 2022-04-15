@@ -6,7 +6,7 @@ There is no python interpreter on Windows so we need to install Python Interpret
 
 ## Install Python 3.7.3
 
-![01-google-search](https://drive.google.com/file/d/145pTPN4LC1YJzjgl0IWd_lHJzoBGfVqT/view?usp=sharing)
+![01-google-search](https://drive.google.com/uc?export=view&id=145pTPN4LC1YJzjgl0IWd_lHJzoBGfVqT)
 First search at google with `python 3.7.3 download for windows`.
 
 ![02-Python3.7.3-Page](Captures/01-Install_Python_3.7/02-Python3.7.3-Page.png)
